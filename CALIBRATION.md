@@ -1,7 +1,8 @@
 ## Calibration
 
 The code itself comes pre-calibrated with my own settings.
-However, if you somehow mess up the code you can re-calibrate it using the same schematic
+However, if you somehow mess up the #define DRY_VALUE and
+#define WET_VALUE parts you can re-calibrate it using the same schematic
 
 **First** load calibration.ino to your ESP32 Devkit v1. 
 
