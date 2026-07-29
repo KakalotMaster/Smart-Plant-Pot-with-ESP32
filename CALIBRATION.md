@@ -10,6 +10,7 @@ However, if you somehow mess up the #define DRY_VALUE and
 
 **After that** stick the sensor in a cup of water and note the raw reading from that one too.
 
+
 *After all those* you can re-write the #define DRY_VALUE and #define WET_VALUE to match your readings.
 
 Still having problems? write out to me in yamanbirturk@gmail.com
